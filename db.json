@@ -2,8 +2,44 @@
   "restaurants": [
     {
       "id": 1,
-      "name": "Prueba",
-      "description": "esto es una prueba"
-    }  
-  ]
+      "name": "Tandoor",
+      "description": "Restaurante de comida ",
+      "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit suspendisse, sodales ultrices vulputate libero imperdiet litora malesuada rutrum, erat felis fringilla conubia risus massa leo. Eget magna cursus curabitur montes conubia parturient, maecenas netus mollis rutrum fames placerat, ligula odio iaculis sed orci penatibus, massa non tincidunt lacus laoreet. Interdum convallis dictum lectus fringilla elementum malesuada a quis viverra, nibh ultricies morbi ut congue dictumst dapibus feugiat netus gravida, nam pellentesque massa maecenas himenaeos fermentum risus per.",
+      "slug": "tandoor-barcelona",
+      "category": "Oriental",
+      "city": "Barcelona",
+      "address": "Carrer d'Aragó, 8"
+    },
+    {
+      "id": 2,
+      "name": "Billy Brunch",
+      "description": "Restaurante especializado en Brunchs",
+      "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit suspendisse, sodales ultrices vulputate libero imperdiet litora malesuada rutrum, erat felis fringilla conubia risus massa leo. Eget magna cursus curabitur montes conubia parturient, maecenas netus mollis rutrum fames placerat, ligula odio iaculis sed orci penatibus, massa non tincidunt lacus laoreet. Interdum convallis dictum lectus fringilla elementum malesuada a quis viverra, nibh ultricies morbi ut congue dictumst dapibus feugiat netus gravida, nam pellentesque massa maecenas himenaeos fermentum risus per.",
+      "slug": "billy-brunch",
+      "category": "Brunch",
+      "city": "Barcelona",
+      "address": "Carrer de Bailèn, 115"
+    },
+    {
+      "id": 3,
+      "name": "Café Dole",
+      "description": "Cafetería",
+      "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit suspendisse, sodales ultrices vulputate libero imperdiet litora malesuada rutrum, erat felis fringilla conubia risus massa leo. Eget magna cursus curabitur montes conubia parturient, maecenas netus mollis rutrum fames placerat, ligula odio iaculis sed orci penatibus, massa non tincidunt lacus laoreet. Interdum convallis dictum lectus fringilla elementum malesuada a quis viverra, nibh ultricies morbi ut congue dictumst dapibus feugiat netus gravida, nam pellentesque massa maecenas himenaeos fermentum risus per.",
+      "slug": "cafe-dole",
+      "category": "Cafeterías",
+      "city": "Barcelona",
+      "address": "Carrer de Manuel de Falla, 16"
+    },
+    {
+      "id": 4,
+      "name": "La real hamburguesería",
+      "description": "Hamburgeseria gourmet",
+      "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit suspendisse, sodales ultrices vulputate libero imperdiet litora malesuada rutrum, erat felis fringilla conubia risus massa leo. Eget magna cursus curabitur montes conubia parturient, maecenas netus mollis rutrum fames placerat, ligula odio iaculis sed orci penatibus, massa non tincidunt lacus laoreet. Interdum convallis dictum lectus fringilla elementum malesuada a quis viverra, nibh ultricies morbi ut congue dictumst dapibus feugiat netus gravida, nam pellentesque massa maecenas himenaeos fermentum risus per.",
+      "slug": "la-real-barcelona",
+      "category": "Burgers",
+      "city": "Barcelona",
+      "address": "Carrer de València, 285"
+    }
+  ],
+  "Categories": ["Burgers", "Cafeterías", "Brunch", "Oriental", "Pizzas"]
 }
