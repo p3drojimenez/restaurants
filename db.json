@@ -8,7 +8,8 @@
       "slug": "tandoor-barcelona",
       "category": "Oriental",
       "city": "Barcelona",
-      "address": "Carrer d'Aragó, 8"
+      "address": "Carrer d'Aragó, 8",
+      "likes": 20
     },
     {
       "id": 2,
@@ -18,7 +19,8 @@
       "slug": "billy-brunch",
       "category": "Brunch",
       "city": "Barcelona",
-      "address": "Carrer de Bailèn, 115"
+      "address": "Carrer de Bailèn, 115",
+      "likes": 2
     },
     {
       "id": 3,
@@ -28,7 +30,8 @@
       "slug": "cafe-dole",
       "category": "Cafeterías",
       "city": "Barcelona",
-      "address": "Carrer de Manuel de Falla, 16"
+      "address": "Carrer de Manuel de Falla, 16",
+      "likes": 13
     },
     {
       "id": 4,
@@ -38,7 +41,8 @@
       "slug": "la-real-barcelona",
       "category": "Burgers",
       "city": "Barcelona",
-      "address": "Carrer de València, 285"
+      "address": "Carrer de València, 285",
+      "likes": 31
     }
   ],
   "Categories": ["Burgers", "Cafeterías", "Brunch", "Oriental", "Pizzas"]
