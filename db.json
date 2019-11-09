@@ -48,11 +48,11 @@
   "Categories": ["Burgers", "Cafeterías", "Brunch", "Oriental", "Pizzas"],
   "users": [
     {
-      "id: 1,
+      "id": 1,
       "email": "fernando@openwerbinars"
     },
     { 
-      "id: 2,
+      "id": 2,
       "email": "welcome@email.com"
     },
     {
