@@ -10,7 +10,7 @@
       "city": "Barcelona",
       "address": "Carrer d'Aragó, 8",
       "likes": 20,
-      "image": "https://github.com/p3drojimenez/restaurants/blob/master/restaurant01.jpg"
+      "image": "https://netlify.pedrojimenez.info/photosCursoOpenWebinar/restaurant01.jpg"
     },
     {
       "id": 1,
@@ -22,7 +22,7 @@
       "city": "Barcelona",
       "address": "Carrer de Bailèn, 115",
       "likes": 2,
-      "image": "https://github.com/p3drojimenez/restaurants/blob/master/restaurant02.jpg"
+      "image": "https://netlify.pedrojimenez.info/photosCursoOpenWebinar/restaurant02.jpg"
     },
     {
       "id": 2,
@@ -34,7 +34,7 @@
       "city": "Barcelona",
       "address": "Carrer de Manuel de Falla, 16",
       "likes": 13,
-      "image": "https://github.com/p3drojimenez/restaurants/blob/master/restaurant03.jpg"
+      "image": "https://netlify.pedrojimenez.info/photosCursoOpenWebinar/restaurant03.jpg"
     },
     {
       "id": 3,
@@ -46,7 +46,7 @@
       "city": "Barcelona",
       "address": "Carrer de València, 285",
       "likes": 31,
-      "image": "https://github.com/p3drojimenez/restaurants/blob/master/restaurant04.jpg"
+      "image": "https://netlify.pedrojimenez.info/photosCursoOpenWebinar/restaurant04.jpg"
     }
   ],
   "Categories": ["Burgers", "Cafeterías", "Brunch", "Oriental", "Pizzas"],
