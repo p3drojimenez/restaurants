@@ -45,5 +45,6 @@
       "likes": 31
     }
   ],
-  "Categories": ["Burgers", "Cafeterías", "Brunch", "Oriental", "Pizzas"]
+  "Categories": ["Burgers", "Cafeterías", "Brunch", "Oriental", "Pizzas"],
+  "users": ["fernando@openwerbinars", "welcome@email.com","info@google.com"]
 }
