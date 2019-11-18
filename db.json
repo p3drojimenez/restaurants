@@ -6,7 +6,7 @@
       "description": "Restaurante de comida ",
       "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit suspendisse, sodales ultrices vulputate libero imperdiet litora malesuada rutrum, erat felis fringilla conubia risus massa leo. Eget magna cursus curabitur montes conubia parturient, maecenas netus mollis rutrum fames placerat, ligula odio iaculis sed orci penatibus, massa non tincidunt lacus laoreet. Interdum convallis dictum lectus fringilla elementum malesuada a quis viverra, nibh ultricies morbi ut congue dictumst dapibus feugiat netus gravida, nam pellentesque massa maecenas himenaeos fermentum risus per.",
       "slug": "tandoor-barcelona",
-      "category": "Oriental",
+      "category": "oriental",
       "city": "Barcelona",
       "address": "Carrer d'Aragó, 8",
       "likes": 20,
@@ -18,7 +18,7 @@
       "description": "Restaurante especializado en Brunchs",
       "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit suspendisse, sodales ultrices vulputate libero imperdiet litora malesuada rutrum, erat felis fringilla conubia risus massa leo. Eget magna cursus curabitur montes conubia parturient, maecenas netus mollis rutrum fames placerat, ligula odio iaculis sed orci penatibus, massa non tincidunt lacus laoreet. Interdum convallis dictum lectus fringilla elementum malesuada a quis viverra, nibh ultricies morbi ut congue dictumst dapibus feugiat netus gravida, nam pellentesque massa maecenas himenaeos fermentum risus per.",
       "slug": "billy-brunch",
-      "category": "Brunch",
+      "category": "brunch",
       "city": "Barcelona",
       "address": "Carrer de Bailèn, 115",
       "likes": 2,
@@ -30,7 +30,7 @@
       "description": "Cafetería",
       "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit suspendisse, sodales ultrices vulputate libero imperdiet litora malesuada rutrum, erat felis fringilla conubia risus massa leo. Eget magna cursus curabitur montes conubia parturient, maecenas netus mollis rutrum fames placerat, ligula odio iaculis sed orci penatibus, massa non tincidunt lacus laoreet. Interdum convallis dictum lectus fringilla elementum malesuada a quis viverra, nibh ultricies morbi ut congue dictumst dapibus feugiat netus gravida, nam pellentesque massa maecenas himenaeos fermentum risus per.",
       "slug": "cafe-dole",
-      "category": "Cafeterías",
+      "category": "cafeterias",
       "city": "Barcelona",
       "address": "Carrer de Manuel de Falla, 16",
       "likes": 13,
@@ -42,14 +42,14 @@
       "description": "Hamburgeseria gourmet",
       "text": "Lorem ipsum dolor sit amet consectetur adipiscing elit suspendisse, sodales ultrices vulputate libero imperdiet litora malesuada rutrum, erat felis fringilla conubia risus massa leo. Eget magna cursus curabitur montes conubia parturient, maecenas netus mollis rutrum fames placerat, ligula odio iaculis sed orci penatibus, massa non tincidunt lacus laoreet. Interdum convallis dictum lectus fringilla elementum malesuada a quis viverra, nibh ultricies morbi ut congue dictumst dapibus feugiat netus gravida, nam pellentesque massa maecenas himenaeos fermentum risus per.",
       "slug": "la-real-barcelona",
-      "category": "Burgers",
+      "category": "burgers",
       "city": "Barcelona",
       "address": "Carrer de València, 285",
       "likes": 31,
       "image": "https://netlify.pedrojimenez.info/photosCursoOpenWebinar/restaurant04.jpg"
     }
   ],
-  "Categories": ["Burgers", "Cafeterías", "Brunch", "Oriental", "Pizzas"],
+  "Categories": ["burgers", "cafeterias", "brunch", "oriental", "pizzas"],
   "users": [
     {
       "id": 1,
